@@ -10,6 +10,24 @@
 </head>
 
 <body>
+<div id="wrapper">
+    <header class="pageHeader">
+        <h1>BE CATTY</h1>
+        <ul>
+            <li>Hem</li>
+            <li>Ragdoll</li>
+            <li>Norwegian Forestcat</li>
+            <li>British shorthair</li>
+            <li>Siamese</li>
+        </ul>
+    </header>
+
+    <div id="pageContent">
+
+    </div>
+
+</div>
+
 
 </body>
 </html>
