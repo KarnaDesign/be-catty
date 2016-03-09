@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: #929494;
+}
+
+#wrapper
+{
+    width: 70%;
+    background-color: #FFF;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3em;
+}
+
+h1
+{
+    font-size: 4em;
+}
+
+#mainMenu
+{
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    margin-top: 3em;
+}
+
+#mainMenu li
+{
+    float: left;
+    margin-left: 1.5em;
+}
+
+#mainMenu li a
+{
+    text-decoration: none;
+    color: #323333;
+}
+
+#mainMenu li a:hover
+{
+    color: #686869;
+}
+
+.pageHeader
+{
+    text-align: center;
+    padding-top: 2em;
+    background-image: url("../images/topcat.jpg");
+    background-size: 12em 10em;
+    background-repeat: no-repeat;
+}
+
