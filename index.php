@@ -13,16 +13,17 @@
 <div id="wrapper">
     <header class="pageHeader">
         <h1>BE CATTY</h1>
-        <ul>
-            <li>Hem</li>
-            <li>Ragdoll</li>
-            <li>Norwegian Forestcat</li>
-            <li>British shorthair</li>
-            <li>Siamese</li>
+        <ul id="mainMenu">
+            <li><a href="#" id="home">Home</a></li>
+            <li><a href="#" id="ragdoll">Ragdoll</a></li>
+            <li><a href="#" id="norwegian">Norwegian Forest Cat</a></li>
+            <li><a href="#" id="british">British shorthair</a></li>
+            <li><a href="#" id="siamese">Siamese</a></li>
         </ul>
     </header>
 
     <div id="pageContent">
+
 
     </div>
 
