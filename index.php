@@ -4,6 +4,7 @@
     <title>Be Catty</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
@@ -22,13 +23,11 @@
         </ul>
     </header>
 
-    <div id="pageContent">
+    <div id="pageContent"></div>
 
-
-    </div>
-
+    <footer class="footer">
+        <p>This is a demo page made by <a href="http://karnadesign.se/">KarnaDesign</a> ©2016</p>
+    </footer>
 </div>
-
-
 </body>
 </html>

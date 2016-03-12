@@ -38,4 +38,5 @@ function bindLinks()
 $(document).ready(function()
 {
     bindLinks();
+    showPage("home");
 });
